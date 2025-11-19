@@ -31,7 +31,6 @@ cin >> salary;
 void display() {
 cout << "Name: " << name << ", ID: " << id << ", Dept: " << dept
 << ", Salary: " << salary << endl;
-
 }
 };
 int main() {
