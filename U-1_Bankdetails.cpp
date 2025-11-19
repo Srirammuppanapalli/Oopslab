@@ -20,4 +20,5 @@ a2.accNo = 1002; a2.name = "Sita"; a2.balance = 40000.75;
 a1.display();
 a2.display();
 return 0;
+
 }
